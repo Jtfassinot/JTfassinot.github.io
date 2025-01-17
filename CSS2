@@ -2,15 +2,15 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f9f9f9;
-    color: #333;
+    background-color: #000; /* Fond noir */
+    color: #f9f9f9; /* Texte clair */
     margin: 0;
     padding: 0;
 }
 
 /* En-tête */
 h1, h2, h3 {
-    color: #0056b3;
+    color: #1e90ff; /* Bleu clair pour un bon contraste */
     text-align: center;
 }
 
@@ -24,9 +24,10 @@ section {
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
-    background: white;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background: #1a1a1a; /* Gris très foncé pour contraster avec le fond */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
     border-radius: 8px;
+    color: #f9f9f9;
 }
 
 /* Listes */
@@ -42,12 +43,12 @@ ul li {
 ul li:before {
     content: '✔️';
     margin-right: 8px;
-    color: #0056b3;
+    color: #1e90ff; /* Icônes en bleu clair */
 }
 
 /* Liens */
 a {
-    color: #0056b3;
+    color: #1e90ff; /* Liens bleu clair */
     text-decoration: none;
 }
 
@@ -61,5 +62,6 @@ footer {
     margin-top: 20px;
     padding: 10px;
     font-size: 0.9rem;
-    color: #777;
+    color: #888; /* Gris clair pour le texte */
 }
+
