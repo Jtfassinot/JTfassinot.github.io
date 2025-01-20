@@ -37,6 +37,7 @@ Bienvenue sur mon dépôt GitHub ! Ce dépôt contient une présentation de mon 
 - **Power BI** : Création de rapports et visualisation de données
 - **SQL** : Gestion, interrogation et analyse de bases de données (Workbench, DBeaver)
 - **Outils de visualisation** : Plotly, Tableaux
+- **Github
 
 ## 🌟 Atouts
 
