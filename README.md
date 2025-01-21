@@ -31,13 +31,23 @@ Bienvenue sur mon dépôt GitHub ! Ce dépôt contient une présentation de mon 
 - **Préparateur de commandes** (octobre 2013 - mars 2017) : LIDL Saint-Laurent-de-Mure
 - **Ouvrier agricole** (2011 - 2012) : SARL Pierre Ribez
 
-## 🛠️ Compétences
+## 🛠️ Compétences Techniques
 
-- **Python** : Analyse de données, traitement et automatisation
-- **Power BI** : Création de rapports et visualisation de données
-- **SQL** : Gestion, interrogation et analyse de bases de données (Workbench, DBeaver)
-- **Outils de visualisation** : Power BI, Plotly, Tableau
-- **Github**
+### 🔍 Programmation et Automatisation
+- **Python** : Analyse avancée de données, automatisation de processus, traitement de grandes quantités de données.
+- **GitHub** : Gestion de version et collaboration sur des projets de développement.
+
+### 📊 Analyse et Visualisation de Données
+- **Power BI & Tableau ** : Création de tableaux de bord interactifs et visualisation de données pour une meilleure prise de décision.
+- **Plotly **  : Production de graphiques interactifs et storytelling visuel efficace.
+
+### 🗄️ Bases de Données
+- **SQL** : Interrogation, gestion et analyse de bases de données relationnelles via Workbench et DBeaver.
+- Intégration de données multi-sources pour des analyses approfondies.
+
+### 🔧 Autres Outils et Technologies
+- Expertise dans l'intégration et l'exploitation de données avec des outils collaboratifs et analytiques.
+
 
 ## 🌟 Atouts
 
