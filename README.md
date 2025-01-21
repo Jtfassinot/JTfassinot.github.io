@@ -36,7 +36,7 @@ Bienvenue sur mon dépôt GitHub ! Ce dépôt contient une présentation de mon 
 - **Python** : Analyse de données, traitement et automatisation
 - **Power BI** : Création de rapports et visualisation de données
 - **SQL** : Gestion, interrogation et analyse de bases de données (Workbench, DBeaver)
-- **Outils de visualisation** : Plotly, Tableaux
+- **Outils de visualisation** : Power BI, Plotly, Tableau
 - **Github**
 
 ## 🌟 Atouts
