@@ -1,71 +1,105 @@
-# Julien-Thomas Fassinot - Chef de Projet IA en Alternance
+# 👨‍💻 Julien-Thomas Fassinot – Data Engineer en Alternance (24 mois)
 
-Bienvenue sur mon dépôt GitHub ! Ce dépôt contient une présentation de mon parcours professionnel, de mes compétences, et de mes projets. Je suis actuellement à la recherche d'une alternance en tant que **Chef de Projet IA**, motivé par le développement de solutions innovantes en intelligence artificielle et en gestion des données.
+Bienvenue sur mon dépôt GitHub !  
+Je suis certifié **Data Analyst** et j’ai été **accepté à la formation Data Engineer de l’école Datascientest** pour une alternance de **24 mois**.  
+Je suis actuellement à la recherche d'une **entreprise innovante** pour relever des **défis data**, à partir de **juin ou septembre 2025**, avec un **rythme de 3 semaines en entreprise / 1 semaine en formation**.
+
+---
 
 ## 🎓 Formation
 
-- **Formation Data Analyst** (septembre 2024 - février 2025) - *Wild Code School Lyon*  
-  Compétences acquises :
-  - Collecte de données : SQL, API Rest, Web Scraping
-  - Automatisation du traitement des données : Python, NumPy, Pandas
-  - Modélisation des données structurées : Sci-kit Learn
-  - Visualisation des données : Power BI, Plotly, Tableaux
+- **Data Engineer** – *Datascientest* (2025 - 2027)  
+  Alternance 3 semaines entreprise / 1 semaine école – 24 mois
 
-- **Licence Administration des Entreprises et des Sociétés** (2013 - 2017) - *IAE Lyon* (non obtenue)
+- **Data Analyst** – *Wild Code School Lyon* (sept. 2024 - fév. 2025)  
+  Collecte de données : SQL, API Rest, Web Scraping  
+  Automatisation : Python, NumPy, Pandas  
+  Modélisation : Scikit-Learn  
+  Visualisation : Power BI, Plotly, Tableau
 
-- **Baccalauréat Sciences Techniques de Gestion, option Finance** (2009 - 2013) - *Externat Sainte-Marie Lyon*
+- **Licence AES (non obtenue)** – *IAE Lyon*  
+- **Bac STG option Finance** – *Externat Sainte-Marie Lyon*
 
-## 💼 Expérience Professionnelle
+---
 
-### Conducteur de travaux - SERPE Feyzin (octobre 2022 - juin 2024)
-- Leadership : encadrement des équipes, communication, gestion des conflits
-- Gestion de projet : gestion du temps, suivi budgétaire, polyvalence
-- Réactivité, adaptabilité, et résistance au stress
+## 💼 Expériences Professionnelles
 
-### Chef d'équipe ouvrier polyvalent - SERPE Feyzin (mars 2020 - octobre 2022)
-- Coordination des équipes pour des projets variés
+### Conducteur de travaux – SERPE Feyzin (oct. 2022 – juin 2024)  
+- Encadrement d’équipes terrain, gestion de projets et suivi budgétaire  
+- Résolution de problèmes, gestion des délais et des imprévus
 
-### Expériences complémentaires
-- **Intérimaire** (mai 2018 - avril 2019) : Aide poseur chez Actilys et opérateur chez Nemera
-- **Chauffeur-livreur** (mars 2017 - août 2018) : MAXIMO Villefontaine
-- **Préparateur de commandes** (octobre 2013 - mars 2017) : LIDL Saint-Laurent-de-Mure
-- **Ouvrier agricole** (2011 - 2012) : SARL Pierre Ribez
+### Chef d'équipe ouvrier polyvalent – SERPE Feyzin (mars 2020 – oct. 2022)  
+- Coordination d’équipes, réalisation de travaux polyvalents
+
+### Autres expériences  
+- Intérimaire – Actilys / Nemera (2018-2019)  
+- Chauffeur-livreur – Maximo Villefontaine (2017-2018)  
+- Préparateur de commandes – Lidl (2013-2017)  
+- Ouvrier agricole – SARL Pierre Ribez (2011-2012)
+
+---
+
+## 🧪 Projets Data
+
+### 🎬 CIN’EHPAd – Moteur de recommandation de films  
+- Recommandation de films du XXᵉ siècle via modèles de machine learning  
+- API backend (Python), interface utilisateur via Streamlit  
+- Visualisation des KPIs sur Power BI  
+- Projet collaboratif avec 2 autres apprenants  
+- 👉 GitHub : *à venir*
+
+### 🕵️ Anne Chollet Project – Analyse de la criminalité à Los Angeles  
+- Étude statistique et géographique des crimes à LA (dataset UNODC)  
+- Création de cartes de chaleur et graphiques temporels  
+- Recommandations stratégiques pour la sécurité publique  
+- Présentation créative : [Lien Canva](https://www.canva.com/design/DAGcWaH5B64/Y7XZohpvMEjgB1J2T1V7nQ/view?utm_content=DAGcWaH5B64&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks)
+
+---
 
 ## 🛠️ Compétences Techniques
 
-### 🔍 Programmation et Automatisation
-- **Python** : Analyse avancée de données, automatisation de processus, traitement de grandes quantités de données.
-- **GitHub** : Gestion de version et collaboration sur des projets de développement.
+### Données & Programmation  
+- Python, SQL, APIs REST  
+- Pandas, NumPy, Scikit-Learn  
+- Git / GitHub, DBeaver, MySQL Workbench  
+- VBA (Excel)
 
-### 📊 Analyse et Visualisation de Données
-- **Power BI & Tableau ** : Création de tableaux de bord interactifs et visualisation de données pour une meilleure prise de décision.
-- **Plotly **  : Production de graphiques interactifs et storytelling visuel efficace.
+### Visualisation  
+- Power BI, Tableau, Plotly  
+- Streamlit
 
-### 🗄️ Bases de Données
-- **SQL** : Interrogation, gestion et analyse de bases de données relationnelles via Workbench et DBeaver.
-- Intégration de données multi-sources pour des analyses approfondies.
+### Méthodologies & Outils  
+- Méthodes Agile (Scrum, Kanban)  
+- JIRA, MS Project, Teams  
+- Connaissances CI/CD et architecture Data
 
-### 🔧 Autres Outils et Technologies
-- Expertise dans l'intégration et l'exploitation de données avec des outils collaboratifs et analytiques.
+---
 
+## 🌟 Soft Skills
 
-## 🌟 Atouts
+- Esprit d’équipe, autonomie, rigueur  
+- Leadership et gestion de projet  
+- Curiosité, capacité à apprendre vite  
+- Sens de l’analyse et résolution de problèmes
 
-- Leadership
-- Résolution de problèmes
-- Adaptabilité
-- Esprit collaboratif
+---
 
 ## 🌍 Langues
 
-- **Anglais** : Niveau B1 (vocabulaire du quotidien)
+- Français : natif  
+- Anglais : niveau B1
+
+---
 
 ## 🎯 Objectif
 
-Je suis actuellement en recherche d'une entreprise pour un contrat d'apprentissage en alternance, en tant que Chef de Projet IA. Mon objectif est de contribuer à des projets innovants tout en approfondissant mes connaissances en ingénierie des données et en intelligence artificielle.
+Intégrer une équipe data ambitieuse pour participer à des projets stratégiques et structurants, tout en consolidant mes compétences en ingénierie des données, automatisation et intelligence artificielle.
 
-## 📫 Contact
+---
 
-- **Email** : [fassinot.jt@gmail.com](mailto:fassinot.jt@gmail.com)
-- **LinkedIn** : [Julien-Thomas Fassinot](https://www.linkedin.com/in/julien-thomas%20fassinot)
-- **Téléphone** : 06 72 87 71 63
+## 📫 Me contacter
+
+- 📧 fassinot.jt@gmail.com  
+- 📞 06 72 87 71 63  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/julien-thomas-fassinot)  
+- 🔗 [GitHub](https://github.com/Jtfassinot)
